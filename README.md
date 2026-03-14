@@ -32,4 +32,4 @@ To launch this dashboard locally, ensure you have **Node.js** installed on your 
    ```bash
    npm run dev
    ```
-4. Access the dashboard via your browser at `http://localhost:5173`.
+4. Access the dashboard via your browser at `[https://smartbinmadurai.netlify.app]`.
